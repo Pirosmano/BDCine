@@ -1,7 +1,7 @@
 /*FUNCIONALIDADES BASE DE DATOS CINE*/
 
 /*SECCION CRISTIAN*/
---Prueba Push
+--Prueba Push fsdmfjfosdjfjsdio
 /*SECCION PAULA*/
 
 /*SECCION MIGUEL*/
